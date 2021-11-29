@@ -38,6 +38,6 @@
     "eslint": "^8.3.0",
     "eslint-plugin-babel": "^5.3.1",
     "rimraf": "^3.0.2",
-    "watch": "^0.13.0"
+    "watch": "^1.0.2"
   }
 }
